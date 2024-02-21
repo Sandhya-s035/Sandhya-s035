@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sandhya-s035
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently learning full stack development
 
 
 <!---
